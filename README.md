@@ -1,16 +1,14 @@
-## Hi there 👋
+## 👋Hello, World
 
-<!--
-**khant-nyar-zaw/khant-nyar-zaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Khant Nyar Zaw, a computer science enthusiast who enjoys building efficient, scalable software solutions and exploring intelligent systems that can learn and adapt. My interest areas are **software development**, **machine learning** and **artificial intelligence**. I’m currently expanding my skills in these fields and building projects to apply my knowledge.
 
-Here are some ideas to get you started:
+## 💻 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages**: Java, JavaScript, Python
+- **Frameworks**: Node.js
+
+## 🔗 Let's Connect
+
+- LinkedIn: [Connect with me on LinkedIn](https://mm.linkedin.com/in/khant-nyar-zaw-47594b33a)
+
+Thanks for visiting my profile
