@@ -1,6 +1,6 @@
 ## 👋Hello, World
 
-I am Khant Nyar Zaw, a computer science enthusiast who enjoys building efficient, scalable software solutions and exploring intelligent systems that can learn and adapt. My interest areas are **software development**, **machine learning** and **artificial intelligence**. I’m currently expanding my skills in these fields and building projects to apply my knowledge.
+I am Khant Nyar Zaw, a computer science enthusiast who enjoys building efficient, scalable software solutions and exploring intelligent systems that can learn and adapt. My interest areas are **software engineering**, **machine learning** and **artificial intelligence**. I’m currently expanding my skills in these fields and building projects to apply my knowledge.
 
 ## 💻 Technologies & Tools
 
