@@ -9,6 +9,6 @@ I am Khant Nyar Zaw, a computer science enthusiast who enjoys building efficient
 
 ## 🔗 Let's Connect
 
-- LinkedIn: [Connect with me on LinkedIn](https://mm.linkedin.com/in/khant-nyar-zaw-47594b33a)
+- LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/khant-nyar-zaw)
 
 Thanks for visiting my profile
